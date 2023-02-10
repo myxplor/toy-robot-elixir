@@ -1,6 +1,8 @@
 # Toy Robot Simulator
 
-The following should be written in Elixir.
+This challenge should take no longer than a couple of hours. Once complete, please send us a link to the repository with your code and tests. The next stage will be an interview with Xplor engineers including some pair programming based on this challenge.
+
+This challenge is to establish your knowledge of the Elixir language and idioms. Thus, please complete this challenge in Elixir.
 
 ## Description:
 - The application is a simulation of a toy robot moving on a square tabletop, of dimensions 5 units x 5 units.  
